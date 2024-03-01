@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2084245014, guid: 379eaff8c47b95146881f98d0d2b5156, type: 3}
+  m_Name: LocoBogies
+  m_EditorClassIdentifier: 
+  Cargo:
+    Identifier: MF_LocoBogies
+    MassPerUnit: 12000
+    FullDamagePrice: 100000
+    EnvironmentDamagePrice: 0
+    Licenses: 00000000
+    CSVLink: 
+    TranslationDataFull:
+      Items:
+      - Language: 0
+        Value: Locomotive Bogies
+    TranslationDataShort:
+      Items:
+      - Language: 0
+        Value: Locomotive Bogies
+    SourceStations:
+    - MF
+    DestinationStations:
+    - HB
+    CargoGroups:
+    - CargosIds:
+      - MF_LocoBogies
+    VanillaTypesToLoad: c8000000
+    Author: Cruzer
+    Version: 1.0.0
+    HomePage: 
+    Repository: 
+  Icon: {fileID: 0}
+  ResourceIcon: {fileID: 0}
+  Models:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 837902a7726a47245a7d626f43966ce5, type: 2}
