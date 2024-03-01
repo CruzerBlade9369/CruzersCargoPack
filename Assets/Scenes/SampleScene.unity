@@ -432,11 +432,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8999169101189458557, guid: f0b0b344f08b461498ff7a024da17771,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f0b0b344f08b461498ff7a024da17771, type: 3}
 --- !u!1001 &1318213495326827774
@@ -450,11 +445,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: forklift
-      objectReference: {fileID: 0}
-    - target: {fileID: 2257506562049033268, guid: 4d5e213b7e5828a458e58462f17a8901,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6185127223663712057, guid: 4d5e213b7e5828a458e58462f17a8901,
         type: 3}
@@ -524,11 +514,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: waterjugs
-      objectReference: {fileID: 0}
-    - target: {fileID: 1503142460968374910, guid: f53bd774b3d6ebb41b92427781f700a5,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3801551105556194398, guid: f53bd774b3d6ebb41b92427781f700a5,
         type: 3}
