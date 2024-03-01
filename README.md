@@ -18,3 +18,4 @@ Cargos that may be added:
 - Helicopter fuselage
 - Oil drill components
 - Log loaders
+- Scrap locomotive parts
