@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PackName: CruzCargoPack
   Author: Cruzer
-  Version: 0.1.0
+  Version: 0.1.1
   HomePage: https://github.com/CruzerBlade9369
   Repository: https://raw.githubusercontent.com/CruzerBlade9369/CCargoPack/main/Repository.json
   Cargos:
