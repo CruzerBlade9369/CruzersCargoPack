@@ -1,6 +1,9 @@
 {
-    "Releases":
-    [
-        {"Id": "CruzCargoPack", "Version": "0.1.0", "DownloadUrl": ""}
-    ]
+	"Releases": [
+		{
+			"Id": "CruzCargoPack",
+			"Version": "0.1.0",
+			"DownloadUrl": ""
+		}
+	]
 }
