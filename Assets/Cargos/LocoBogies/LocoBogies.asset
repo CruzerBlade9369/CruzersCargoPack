@@ -39,8 +39,7 @@ MonoBehaviour:
     Version: 1.0.0
     HomePage: 
     Repository: 
-  Icon: {fileID: 0}
-  ResourceIcon: {fileID: 0}
+  Icon: {fileID: 21300000, guid: 4900e726e2919b54691478c485e88d47, type: 3}
+  ResourceIcon: {fileID: 21300000, guid: 5c2f03844f49c3a44a9677bbd6019849, type: 3}
   Models:
-  - {fileID: 0}
   - {fileID: 11400000, guid: 837902a7726a47245a7d626f43966ce5, type: 2}

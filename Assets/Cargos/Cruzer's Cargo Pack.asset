@@ -12,11 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 1195604488, guid: 379eaff8c47b95146881f98d0d2b5156, type: 3}
   m_Name: Cruzer's Cargo Pack
   m_EditorClassIdentifier: 
-  PackName: Cruzer's Cargo Pack
+  PackName: CruzCargoPack
   Author: Cruzer
-  Version: 1.0.0
-  HomePage: 
-  Repository: 
+  Version: 0.1.0
+  HomePage: https://github.com/CruzerBlade9369
+  Repository: https://raw.githubusercontent.com/CruzerBlade9369/CCargoPack/main/Repository.json
   Cargos:
   - {fileID: 11400000, guid: c6a6bf3ba0a774d44b9148ce2306ab5d, type: 2}
   - {fileID: 11400000, guid: bba3093356716164785263b45182a7fe, type: 2}
+  - {fileID: 11400000, guid: 1db42599b882a9f44baec1e712ac44e7, type: 2}

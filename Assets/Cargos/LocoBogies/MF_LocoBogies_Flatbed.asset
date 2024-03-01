@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: MF_LocoBogies_Flatbed
   m_EditorClassIdentifier: 
   CarType: 200
-  Prefabs: []
+  Prefabs:
+  - {fileID: 4412665904869250318, guid: f0b0b344f08b461498ff7a024da17771, type: 3}
