@@ -15,7 +15,7 @@ MonoBehaviour:
   Cargo:
     Identifier: FF_WaterJug
     MassPerUnit: 18000
-    FullDamagePrice: 18000
+    FullDamagePrice: 25000
     EnvironmentDamagePrice: 0
     Licenses: 00000000
     CSVLink: 
