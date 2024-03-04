@@ -7,8 +7,53 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Default-Material
+    second: {fileID: 2100000, guid: 5d11bbb92977dd34bbc57a9fb517432e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: GlassIndoors
     second: {fileID: 2100000, guid: af8d5f01eb2b6bf4c9cf86875fd0e7bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeadlightsGlare
+    second: {fileID: 2100000, guid: 0854c563c436e654ab09b2d9ab3855ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HighlightCab
+    second: {fileID: 2100000, guid: 995bc986b6a6e0e4da22dff5db3dcc95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LocoDE2_Body
+    second: {fileID: 2100000, guid: a54d285dbdb64d2419177a2fbb232da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LocoDE2_Interior
+    second: {fileID: 2100000, guid: 651078d725443714ebd40658a62a2152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LocoDE2_InteriorCab
+    second: {fileID: 2100000, guid: 7d80ae33e3f9b1e4c82ca5dfd55416f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MB_TrimMetal2
+    second: {fileID: 2100000, guid: d6be757b9d256744ba1701ad946ed0cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RearlightsGlare
+    second: {fileID: 2100000, guid: c96b935142e0a514fa9f80b95c562128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainCarAccessories
+    second: {fileID: 2100000, guid: 0e3bb9a6270a9eb4f909f8a6bc534728, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -24,6 +69,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: headlights_red
     second: {fileID: 2100000, guid: bc8f2b6b92c85254093e292b15ad9c5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hose_cock_icon
+    second: {fileID: 2100000, guid: d5ab72da71a51d543a478bcc27d3024e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows_broken
+    second: {fileID: 2100000, guid: 7628be87b410c0b41b2768ada1513869, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

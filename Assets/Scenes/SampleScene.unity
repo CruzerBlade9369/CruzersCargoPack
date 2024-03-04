@@ -188,6 +188,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tmp_carflatcar
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a30b0e7d602dfa4eb6a32ce89fef2a4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a30b0e7d602dfa4eb6a32ce89fef2a4, type: 3}
 --- !u!1 &705507993
@@ -435,7 +440,7 @@ PrefabInstance:
     - target: {fileID: 8050135298188382935, guid: 6fcadc129d9dd8a4e9572aca39ad3122,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6fcadc129d9dd8a4e9572aca39ad3122, type: 3}
@@ -599,11 +604,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: waterjugs
       objectReference: {fileID: 0}
-    - target: {fileID: 1503142460968374910, guid: f53bd774b3d6ebb41b92427781f700a5,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3801551105556194398, guid: f53bd774b3d6ebb41b92427781f700a5,
         type: 3}
       propertyPath: m_RootOrder
@@ -672,11 +672,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cement
-      objectReference: {fileID: 0}
-    - target: {fileID: 2390926209959273515, guid: 0306de79be15818419f4ab665d1b19f5,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4525779220559913668, guid: 0306de79be15818419f4ab665d1b19f5,
         type: 3}

@@ -32,8 +32,10 @@ MonoBehaviour:
     - OWN
     DestinationStations:
     - GF
-    CargoGroups: []
-    VanillaTypesToLoad: 
+    CargoGroups:
+    - CargosIds:
+      - OW_Bitumen
+    VanillaTypesToLoad: 31010000
     Author: 
     Version: 1.0.0
     HomePage: 
