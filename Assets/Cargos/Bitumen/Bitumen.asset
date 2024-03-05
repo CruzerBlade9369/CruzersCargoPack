@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Cargo:
     Identifier: OW_Bitumen
-    MassPerUnit: 1000
-    FullDamagePrice: 10000
-    EnvironmentDamagePrice: 0
+    MassPerUnit: 60000
+    FullDamagePrice: 50000
+    EnvironmentDamagePrice: 15000
     Licenses: 00000000
     CSVLink: 
     TranslationDataFull:
@@ -41,5 +41,5 @@ MonoBehaviour:
     HomePage: 
     Repository: 
   Icon: {fileID: 0}
-  ResourceIcon: {fileID: 0}
+  ResourceIcon: {fileID: 21300000, guid: ff77cb57fe0ac7e44bc631b5c155ef35, type: 3}
   Models: []
