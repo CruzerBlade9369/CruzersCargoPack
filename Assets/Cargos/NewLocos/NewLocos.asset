@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Cargo:
     Identifier: MF_NewLocos
-    MassPerUnit: 48000
-    FullDamagePrice: 10000
+    MassPerUnit: 38500
+    FullDamagePrice: 177000
     EnvironmentDamagePrice: 0
     Licenses: 00000000
     CSVLink: 
@@ -26,7 +26,7 @@ MonoBehaviour:
     TranslationDataShort:
       Items:
       - Language: 0
-        Value: New Locomotives
+        Value: New Locomotive
     SourceStations:
     - MF
     DestinationStations:
@@ -39,7 +39,7 @@ MonoBehaviour:
     Version: 1.0.0
     HomePage: 
     Repository: 
-  Icon: {fileID: 0}
-  ResourceIcon: {fileID: 0}
+  Icon: {fileID: 21300000, guid: 07911bb865981e041b6e56b961b30268, type: 3}
+  ResourceIcon: {fileID: 21300000, guid: 0a9247652df0ab3469630151345b5325, type: 3}
   Models:
   - {fileID: 11400000, guid: 23024dc67a1e316459ea4a5541532c3c, type: 2}
