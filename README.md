@@ -5,12 +5,12 @@ Current cargo:
 - Mineral water
 - Forklifts
 - Locomotive bogies
-
-Cargos to be added:
 - Cement
-- Plastic pellets
 - New locomotives
 - Bitumen
+
+Cargos to be added:
+- Plastic pellets
 - Dynamite
 - Fish
 
