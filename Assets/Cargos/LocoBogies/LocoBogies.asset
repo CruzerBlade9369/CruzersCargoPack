@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Cargo:
     Identifier: MF_LocoBogies
-    MassPerUnit: 12000
+    MassPerUnit: 40000
     FullDamagePrice: 100000
     EnvironmentDamagePrice: 0
     Licenses: 00000000
