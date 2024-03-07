@@ -13,6 +13,7 @@ Cargos to be added:
 - Plastic pellets
 - Dynamite
 - Fish
+- Bromine
 
 Cargos that may be added:
 - Helicopter fuselage
