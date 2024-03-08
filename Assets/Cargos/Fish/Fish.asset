@@ -15,9 +15,8 @@ MonoBehaviour:
   Cargo:
     Identifier: HB_Fish
     MassPerUnit: 30000
-    FullDamagePrice: 15000
+    FullDamagePrice: 26000
     EnvironmentDamagePrice: 0
-    Licenses: 00000000
     CSVLink: 
     TranslationDataFull:
       Items:
@@ -27,18 +26,50 @@ MonoBehaviour:
       Items:
       - Language: 0
         Value: Fish
-    SourceStations:
-    - HB
-    DestinationStations:
-    - FF
     CargoGroups:
     - CargosIds:
       - HB_Fish
+      SourceStations:
+      - HB
+      DestinationStations:
+      - FF
     VanillaTypesToLoad: c2010000
+    Licenses: []
+    Properties:
+      MaxHealth: 8000
+      DamageTolerance: 0.02
+      DamageMultiplier: 1
+      DamageResistance: 50
+      FireDamageMultiplier: 1
+      FireResistance: 7.5
+      CargoEffectPools: 0
+      LeakCurve: -1
+      LeakProperties:
+        MaxLeakFlow: 500
+        MinLeakFlow: 100
+        Volatility: 0
+        DissipationRate: 0
+        Density: 0
+      Reaction: 0
+      CustomReactionCurve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      ReactionProperties:
+        Reactivity: -5
+        ReactivityModifierToOthers: 0
+        IgnitionReactivityMin: Infinity
+        IgnitionReactivityMax: Infinity
+        CriticalVolumeIgnitionMin: Infinity
+        CriticalVolumeIgnitionMax: Infinity
+        ExplosionDelay: 0
     Author: 
     Version: 1.0.0
     HomePage: 
     Repository: 
+    RequireCCL: 0
   Icon: {fileID: 0}
-  ResourceIcon: {fileID: 0}
+  ResourceIcon: {fileID: 21300000, guid: b21e7d6901457754c9033f2806c78449, type: 3}
   Models: []

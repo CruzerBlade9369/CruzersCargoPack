@@ -1943,11 +1943,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: locobogies
       objectReference: {fileID: 0}
-    - target: {fileID: 4412665904869250318, guid: f0b0b344f08b461498ff7a024da17771,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5833545667693905622, guid: f0b0b344f08b461498ff7a024da17771,
         type: 3}
       propertyPath: m_RootOrder
@@ -2577,11 +2572,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: forklift
-      objectReference: {fileID: 0}
-    - target: {fileID: 2257506562049033268, guid: 4d5e213b7e5828a458e58462f17a8901,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6185127223663712057, guid: 4d5e213b7e5828a458e58462f17a8901,
         type: 3}
@@ -6093,11 +6083,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: waterjugs
       objectReference: {fileID: 0}
-    - target: {fileID: 1503142460968374910, guid: f53bd774b3d6ebb41b92427781f700a5,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3801551105556194398, guid: f53bd774b3d6ebb41b92427781f700a5,
         type: 3}
       propertyPath: m_RootOrder
@@ -9114,11 +9099,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cement
-      objectReference: {fileID: 0}
-    - target: {fileID: 2390926209959273515, guid: 0306de79be15818419f4ab665d1b19f5,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4525779220559913668, guid: 0306de79be15818419f4ab665d1b19f5,
         type: 3}
