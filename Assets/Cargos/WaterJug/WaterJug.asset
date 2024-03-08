@@ -17,7 +17,6 @@ MonoBehaviour:
     MassPerUnit: 18000
     FullDamagePrice: 25000
     EnvironmentDamagePrice: 0
-    Licenses: 00000000
     CSVLink: 
     TranslationDataFull:
       Items:
@@ -27,21 +26,53 @@ MonoBehaviour:
       Items:
       - Language: 0
         Value: Mineral Water
-    SourceStations:
-    - FF
-    DestinationStations:
-    - MF
-    - CSW
-    - GF
-    - HB
     CargoGroups:
     - CargosIds:
       - FF_WaterJug
+      SourceStations:
+      - FF
+      DestinationStations:
+      - MF
+      - HB
+      - GF
+      - CSW
     VanillaTypesToLoad: c8000000
+    Licenses: []
+    Properties:
+      MaxHealth: 8000
+      DamageTolerance: 0.2
+      DamageMultiplier: 1
+      DamageResistance: 50
+      FireDamageMultiplier: 1
+      FireResistance: 7.5
+      CargoEffectPools: 2
+      LeakCurve: 1
+      LeakProperties:
+        MaxLeakFlow: 500
+        MinLeakFlow: 100
+        Volatility: 0
+        DissipationRate: 0
+        Density: 0
+      Reaction: 0
+      CustomReactionCurve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      ReactionProperties:
+        Reactivity: -5
+        ReactivityModifierToOthers: 0
+        IgnitionReactivityMin: Infinity
+        IgnitionReactivityMax: Infinity
+        CriticalVolumeIgnitionMin: Infinity
+        CriticalVolumeIgnitionMax: Infinity
+        ExplosionDelay: 0
     Author: Cruzer
     Version: 1.0.0
     HomePage: 
     Repository: 
+    RequireCCL: 0
   Icon: {fileID: 21300000, guid: f1bb3eb649282714b9c8df6d2dc61fe6, type: 3}
   ResourceIcon: {fileID: 21300000, guid: c589fffd8dbd5fd418dd5a3626222203, type: 3}
   Models:

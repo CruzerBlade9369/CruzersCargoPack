@@ -14,10 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Cargo:
     Identifier: MF_Forklifts
-    MassPerUnit: 12500
+    MassPerUnit: 15000
     FullDamagePrice: 60000
     EnvironmentDamagePrice: 0
-    Licenses: 00000000
     CSVLink: 
     TranslationDataFull:
       Items:
@@ -27,19 +26,51 @@ MonoBehaviour:
       Items:
       - Language: 0
         Value: Forklifts
-    SourceStations:
-    - MF
-    DestinationStations:
-    - FF
-    - GF
     CargoGroups:
     - CargosIds:
       - MF_Forklifts
+      SourceStations:
+      - MF
+      DestinationStations:
+      - GF
+      - FF
     VanillaTypesToLoad: c8000000
+    Licenses: []
+    Properties:
+      MaxHealth: 8000
+      DamageTolerance: 0.02
+      DamageMultiplier: 1
+      DamageResistance: 50
+      FireDamageMultiplier: 1
+      FireResistance: 7.5
+      CargoEffectPools: 0
+      LeakCurve: -1
+      LeakProperties:
+        MaxLeakFlow: 500
+        MinLeakFlow: 100
+        Volatility: 0
+        DissipationRate: 0
+        Density: 0
+      Reaction: 0
+      CustomReactionCurve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      ReactionProperties:
+        Reactivity: -5
+        ReactivityModifierToOthers: 0
+        IgnitionReactivityMin: Infinity
+        IgnitionReactivityMax: Infinity
+        CriticalVolumeIgnitionMin: Infinity
+        CriticalVolumeIgnitionMax: Infinity
+        ExplosionDelay: 0
     Author: Cruzer
     Version: 1.0.0
     HomePage: 
     Repository: 
+    RequireCCL: 0
   Icon: {fileID: 21300000, guid: 9bbc0b9002ace9f49b52a88b49e5f3d8, type: 3}
   ResourceIcon: {fileID: 21300000, guid: 851a30aee4d10784c9ef7bfbf3cc0760, type: 3}
   Models:
