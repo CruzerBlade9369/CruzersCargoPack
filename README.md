@@ -8,11 +8,11 @@ Current cargo:
 - Cement
 - New locomotives
 - Bitumen
+- Fish
 
 Cargos to be added:
 - Plastic pellets
 - Dynamite
-- Fish
 - Bromine
 
 Cargos that may be added:
